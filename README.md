@@ -6,7 +6,7 @@ Obs: No momento da criação deste repositório a última versão estavél do Ku
 
 Não será utilizado a última versão pois a idéia é depois realizar alguns labs com o intuito de realizar um upgrade da versão do cluster.
 
-Como posso realizar o deploy desta Stack:
+O que preciso para realizar o deploy da stack.
 
 ## Ferramentas necessárias
 
@@ -16,6 +16,14 @@ Como pré requisito para executar a criação do laborátorio precisamos:
 - Efetuar a configuração de um profile para o AWS CLI
 - Terraform
 - Ansible
+
+## Estrutura
+
+Abaixo segue uma explicação da estrutura do repositório, e uma breve explicação.
+
+
+
+
 
 
 
